@@ -1,16 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:7
-#EXT-X-TARGETDURATION:18
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-MAP:URI="https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/init_1789199380944.mp4"
-#EXTINF:17.933333,
-https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199380944_001.image
-#EXTINF:12.066667,
-https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199380944_002.image
-#EXTINF:1.466667,
-https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199380944_003.image
-#EXTINF:8.200000,
-https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199380944_004.image
-#EXTINF:8.066667,
-https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199380944_005.image
+#EXT-X-TARGETDURATION:21
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-MAP:URI="https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/init_1789199460960.mp4"
+#EXTINF:13.333333,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199460960_000.image
+#EXTINF:20.600000,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199460960_001.image
+#EXTINF:9.600000,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199460960_002.image
+#EXTINF:16.466667,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789199460960_003.image
 
