@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-MAP:URI="https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/init_1789207740000.mp4"
+#EXTINF:4.533333,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789207740000_001.image
+#EXTINF:9.800000,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789207740000_002.image
+#EXTINF:13.066667,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789207740000_003.image
+#EXTINF:7.066667,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789207740000_004.image
+#EXTINF:6.466667,
+https://cdn.jsdelivr.net/gh/techlavakumar-cyber/testcdn@main/seg_1789207740000_005.image
+
